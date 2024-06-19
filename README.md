@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yasmin-muniz&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yasmin-muniz&PAT_1=show_icons=true&bg_color=000000&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
 
 
   [![Static Badge](https://img.shields.io/badge/yasmin--muniz.github.io-%23000000)](https://yasmin-muniz.github.io/)
